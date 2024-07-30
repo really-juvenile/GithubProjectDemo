@@ -1,0 +1,14 @@
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\bin\Debug\net8.0\DiceDictionaryGame.exe
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\bin\Debug\net8.0\DiceDictionaryGame.deps.json
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\bin\Debug\net8.0\DiceDictionaryGame.runtimeconfig.json
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\bin\Debug\net8.0\DiceDictionaryGame.dll
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\bin\Debug\net8.0\DiceDictionaryGame.pdb
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.AssemblyInfoInputs.cache
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.AssemblyInfo.cs
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.csproj.CoreCompileInputs.cache
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.dll
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\refint\DiceDictionaryGame.dll
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.pdb
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\DiceDictionaryGame.genruntimeconfig.cache
+C:\Users\arjun.pawar\source\repos\DiceDictionaryGame\obj\Debug\net8.0\ref\DiceDictionaryGame.dll
