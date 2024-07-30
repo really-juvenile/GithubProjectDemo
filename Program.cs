@@ -24,7 +24,13 @@
             //program for rollling dice and counting the frequency in the dictionary C#
 
 
-             Random random = new Random();
+             Random randomwmfdefq.iiltf3jqwgfuq3ftq3FGQJ
+             
+             
+             
+             https://github.com/really-juvenile/GithubProjectDemohttps://github.com/really-juvenile/GithubProjectDemohttps://github.com/really-juvenile/GithubProjectDemo
+             
+             https://github.com/really-juvenile/GithubProjectDemo = new Random();
             for (int i = 0; i <= 10; i++)
             {
                 rollDices = random.Next(1, 7);
