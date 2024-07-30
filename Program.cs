@@ -14,7 +14,12 @@
                 {6,0},
             };
 
-            int rollDice = 0;
+            Random random = new Random();
+            for (int i = 0; i <= 10; i++)
+            {
+
+
+                int rollDice = 0;
 
             //program for rollling dice and counting the frequency in the dictionary C#
 
@@ -25,18 +30,38 @@
                 rollDice = random.Next(1, 7);
                 if (dictionarydictionary.ContainsKey(rollDice))
                 {
-                    dictionarydictionary[rollDice]++;
-                    Console.WriteLine("Hello World")
+                    dictionary[rollDice]++;
 
-                }
+
+
+                    { 1,0 },
+                { 2,0},
+                { 3,0},
+                { 4,0},
+                { 5,0},
+                { 6,0},
+            };
+
+                int rollDice = 0;
+
+
+                char[] charArray = new char[10];    
+
+            }
 
                 
             }
 
             foreach( var  i in dictionarydictionary)
             {
-                Console.WriteLine(i.Key +" " +i.Value);
+                Console.WriteLine(i.Key +" " +i.oi  wbdbbowudbJ CValue);
             }
+
+
+           
+
+
+           
 
 
            
