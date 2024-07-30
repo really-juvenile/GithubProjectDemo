@@ -14,7 +14,7 @@
                 {6,0},
             };
 
-            int rollDice = 0;
+            int rollDice = 2;
 
             //program for rollling dice and counting the frequency in the dictionary C#
 
@@ -22,7 +22,7 @@
              Random random = new Random();
             for (int i = 0; i <= 10; i++)
             {
-                rollDice = random.Next(1, 7);
+                rollDices = random.Next(1, 7);
                 if (dictionary.ContainsKey(rollDice))
                 {
                     dictionary[rollDice]++;
