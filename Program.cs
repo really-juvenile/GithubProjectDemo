@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Dictionary<int, int> dictionary = new Dictionary<int, int>
+            Dictionary<int, int> dictionarydictionary = new Dictionary<int, int>
             {
-                {1,0 },
+                {1,0},
                 {2,0},
                 {3,0},
                 {4,0},
@@ -23,16 +23,17 @@
             for (int i = 0; i <= 10; i++)
             {
                 rollDice = random.Next(1, 7);
-                if (dictionary.ContainsKey(rollDice))
+                if (dictionarydictionary.ContainsKey(rollDice))
                 {
-                    dictionary[rollDice]++;
+                    dictionarydictionary[rollDice]++;
+                    Console.WriteLine("Hello World")
 
                 }
 
                 
             }
 
-            foreach( var  i in dictionary)
+            foreach( var  i in dictionarydictionary)
             {
                 Console.WriteLine(i.Key +" " +i.Value);
             }
